@@ -1,0 +1,14 @@
+{
+  "name": "tdd-using-nodejs",
+  "version": "0.0.1",
+  "description": "TDD using NodeJS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R tap"
+  },
+  "author": "",
+  "license": "ISC"
+}
